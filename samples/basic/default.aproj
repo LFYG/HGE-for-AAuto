@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<project ver="0.60" name="HGE" libEmbed="true" icon="..." CompanyName="单位名称" FileDescription="附加说明......" LegalCopyright="Copyright (C) 作者 2011" ProductName="HGE" InternalName="HGE" FileVersion="0.0.1.001" ProductVersion="0.0.1.001" publishDir="\">
+	<file name="main.aau" path="main.aau"/>
+	<folder name="资源文件" path="res" embed="true"/>
+	<folder name="dll" path="dll" comment="" embed="false">
+		<file name="D3DX9_43.dll" path="dll\D3DX9_43.dll" comment="dll\D3DX9_43.dll"/>
+		<file name="bass.dll" path="dll\bass.dll" comment="dll\bass.dll"/>
+	</folder>
+</project>
